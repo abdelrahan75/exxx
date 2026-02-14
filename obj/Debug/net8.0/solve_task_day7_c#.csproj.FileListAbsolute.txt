@@ -1,0 +1,15 @@
+C:\Users\bdalr\solve_day_7 c#\solve_task_day7_c#\bin\Debug\net8.0\solve_task_day7_c#.exe
+C:\Users\bdalr\solve_day_7 c#\solve_task_day7_c#\bin\Debug\net8.0\solve_task_day7_c#.deps.json
+C:\Users\bdalr\solve_day_7 c#\solve_task_day7_c#\bin\Debug\net8.0\solve_task_day7_c#.runtimeconfig.json
+C:\Users\bdalr\solve_day_7 c#\solve_task_day7_c#\bin\Debug\net8.0\solve_task_day7_c#.dll
+C:\Users\bdalr\solve_day_7 c#\solve_task_day7_c#\bin\Debug\net8.0\solve_task_day7_c#.pdb
+C:\Users\bdalr\solve_day_7 c#\solve_task_day7_c#\obj\Debug\net8.0\solve_task_day7_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bdalr\solve_day_7 c#\solve_task_day7_c#\obj\Debug\net8.0\solve_task_day7_c#.AssemblyInfoInputs.cache
+C:\Users\bdalr\solve_day_7 c#\solve_task_day7_c#\obj\Debug\net8.0\solve_task_day7_c#.AssemblyInfo.cs
+C:\Users\bdalr\solve_day_7 c#\solve_task_day7_c#\obj\Debug\net8.0\solve_task_day7_c#.csproj.CoreCompileInputs.cache
+C:\Users\bdalr\solve_day_7 c#\solve_task_day7_c#\obj\Debug\net8.0\solve_task_day7_c#.sourcelink.json
+C:\Users\bdalr\solve_day_7 c#\solve_task_day7_c#\obj\Debug\net8.0\solve_task_day7_c#.dll
+C:\Users\bdalr\solve_day_7 c#\solve_task_day7_c#\obj\Debug\net8.0\refint\solve_task_day7_c#.dll
+C:\Users\bdalr\solve_day_7 c#\solve_task_day7_c#\obj\Debug\net8.0\solve_task_day7_c#.pdb
+C:\Users\bdalr\solve_day_7 c#\solve_task_day7_c#\obj\Debug\net8.0\solve_task_day7_c#.genruntimeconfig.cache
+C:\Users\bdalr\solve_day_7 c#\solve_task_day7_c#\obj\Debug\net8.0\ref\solve_task_day7_c#.dll

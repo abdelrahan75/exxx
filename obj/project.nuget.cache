@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "q5OWrcFWENc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\solve_task_day7_c#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bdalr\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\solve_task_day7_c#.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\solve_task_day7_c#.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

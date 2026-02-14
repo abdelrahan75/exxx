@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A23FB1A4-8F07-4B3F-BD1C-104AF3C19ED4}|solve_task_day7_c#.csproj|c:\\users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23FB1A4-8F07-4B3F-BD1C-104AF3C19ED4}|solve_task_day7_c#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23FB1A4-8F07-4B3F-BD1C-104AF3C19ED4}|solve_task_day7_c#.csproj|c:\\users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23FB1A4-8F07-4B3F-BD1C-104AF3C19ED4}|solve_task_day7_c#.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23FB1A4-8F07-4B3F-BD1C-104AF3C19ED4}|solve_task_day7_c#.csproj|c:\\users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23FB1A4-8F07-4B3F-BD1C-104AF3C19ED4}|solve_task_day7_c#.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23FB1A4-8F07-4B3F-BD1C-104AF3C19ED4}|solve_task_day7_c#.csproj|c:\\users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23FB1A4-8F07-4B3F-BD1C-104AF3C19ED4}|solve_task_day7_c#.csproj|solutionrelative:file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23FB1A4-8F07-4B3F-BD1C-104AF3C19ED4}|solve_task_day7_c#.csproj|c:\\users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\writeable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23FB1A4-8F07-4B3F-BD1C-104AF3C19ED4}|solve_task_day7_c#.csproj|solutionrelative:writeable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23FB1A4-8F07-4B3F-BD1C-104AF3C19ED4}|solve_task_day7_c#.csproj|c:\\users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\readable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23FB1A4-8F07-4B3F-BD1C-104AF3C19ED4}|solve_task_day7_c#.csproj|solutionrelative:readable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23FB1A4-8F07-4B3F-BD1C-104AF3C19ED4}|solve_task_day7_c#.csproj|c:\\users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\movelable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23FB1A4-8F07-4B3F-BD1C-104AF3C19ED4}|solve_task_day7_c#.csproj|solutionrelative:movelable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23FB1A4-8F07-4B3F-BD1C-104AF3C19ED4}|solve_task_day7_c#.csproj|c:\\users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23FB1A4-8F07-4B3F-BD1C-104AF3C19ED4}|solve_task_day7_c#.csproj|solutionrelative:ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23FB1A4-8F07-4B3F-BD1C-104AF3C19ED4}|solve_task_day7_c#.csproj|c:\\users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23FB1A4-8F07-4B3F-BD1C-104AF3C19ED4}|solve_task_day7_c#.csproj|solutionrelative:circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23FB1A4-8F07-4B3F-BD1C-104AF3C19ED4}|solve_task_day7_c#.csproj|c:\\users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\culc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23FB1A4-8F07-4B3F-BD1C-104AF3C19ED4}|solve_task_day7_c#.csproj|solutionrelative:culc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23FB1A4-8F07-4B3F-BD1C-104AF3C19ED4}|solve_task_day7_c#.csproj|c:\\users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23FB1A4-8F07-4B3F-BD1C-104AF3C19ED4}|solve_task_day7_c#.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\Shape.cs",
+              "RelativeDocumentMoniker": "Shape.cs",
+              "ToolTip": "C:\\Users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\Shape.cs",
+              "RelativeToolTip": "Shape.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T21:16:17.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "File.cs",
+              "DocumentMoniker": "C:\\Users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\File.cs",
+              "RelativeDocumentMoniker": "File.cs",
+              "ToolTip": "C:\\Users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\File.cs",
+              "RelativeToolTip": "File.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T20:22:49.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Readable.cs",
+              "DocumentMoniker": "C:\\Users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\Readable.cs",
+              "RelativeDocumentMoniker": "Readable.cs",
+              "ToolTip": "C:\\Users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\Readable.cs",
+              "RelativeToolTip": "Readable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T20:21:34.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Movelable.cs",
+              "DocumentMoniker": "C:\\Users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\Movelable.cs",
+              "RelativeDocumentMoniker": "Movelable.cs",
+              "ToolTip": "C:\\Users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\Movelable.cs",
+              "RelativeToolTip": "Movelable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T18:10:21.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\Circle.cs",
+              "RelativeDocumentMoniker": "Circle.cs",
+              "ToolTip": "C:\\Users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\Circle.cs",
+              "RelativeToolTip": "Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T17:53:00.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Rectangle.cs",
+              "ToolTip": "C:\\Users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\Rectangle.cs",
+              "RelativeToolTip": "Rectangle.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T17:37:43.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Culc.cs",
+              "DocumentMoniker": "C:\\Users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\Culc.cs",
+              "RelativeDocumentMoniker": "Culc.cs",
+              "ToolTip": "C:\\Users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\Culc.cs",
+              "RelativeToolTip": "Culc.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T23:25:21.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T23:00:57.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAAAIoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T23:00:33.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Writeable.cs",
+              "DocumentMoniker": "C:\\Users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\Writeable.cs",
+              "RelativeDocumentMoniker": "Writeable.cs",
+              "ToolTip": "C:\\Users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\Writeable.cs",
+              "RelativeToolTip": "Writeable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T20:22:08.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ishape.cs",
+              "DocumentMoniker": "C:\\Users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\Ishape.cs",
+              "RelativeDocumentMoniker": "Ishape.cs",
+              "ToolTip": "C:\\Users\\bdalr\\solve_day_7 c#\\solve_task_day7_c#\\Ishape.cs",
+              "RelativeToolTip": "Ishape.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T18:01:39.641Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
